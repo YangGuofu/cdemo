@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/laragon/usr/c/test/ch02/2-5.h
+stdio.h
+-
+limits.h
+-
+
+D:/laragon/usr/c/test/main.c
+stdio.h
+-
+float.h
+-
+ch02/2-5.h
+D:/laragon/usr/c/test/ch02/2-5.h
+test.h
+D:/laragon/usr/c/test/test.h
+
+D:/laragon/usr/c/test/test.h
+stdio.h
+-
+limits.h
+-
+
