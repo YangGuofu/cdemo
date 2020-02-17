@@ -5,7 +5,7 @@
 
 int main() {
     test();
-    testgetbits();
+    test29();
 
     return 0;
 }
