@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <float.h>
-#include "ch02/2-9.h"
+#include "ch03/3-4.h"
 #include "test.h"
 
 int main() {
     test();
-    test29();
+    test34();
 
     return 0;
 }
