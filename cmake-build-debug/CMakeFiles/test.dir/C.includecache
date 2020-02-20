@@ -6,10 +6,18 @@
 
 #IncludeRegexTransform: 
 
-D:/laragon/usr/c/test/ch03/3-4.h
+D:/laragon/usr/c/test/ch03/3-6.h
 stdio.h
 -
 limits.h
+-
+ctype.h
+-
+string.h
+-
+stdlib.h
+-
+math.h
 -
 
 D:/laragon/usr/c/test/main.c
@@ -17,8 +25,8 @@ stdio.h
 -
 float.h
 -
-ch03/3-4.h
-D:/laragon/usr/c/test/ch03/3-4.h
+ch03/3-6.h
+D:/laragon/usr/c/test/ch03/3-6.h
 test.h
 D:/laragon/usr/c/test/test.h
 

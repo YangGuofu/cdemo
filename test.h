@@ -2,7 +2,7 @@
 #include <limits.h>
 
 
-void test() {
+void debug() {
 
 }
 
