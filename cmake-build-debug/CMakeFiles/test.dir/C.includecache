@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-D:/laragon/usr/c/test/ch03/3-6.h
+D:/laragon/usr/c/test/ch03/3-8.h
 stdio.h
 -
 limits.h
@@ -25,8 +25,8 @@ stdio.h
 -
 float.h
 -
-ch03/3-6.h
-D:/laragon/usr/c/test/ch03/3-6.h
+ch03/3-8.h
+D:/laragon/usr/c/test/ch03/3-8.h
 test.h
 D:/laragon/usr/c/test/test.h
 
